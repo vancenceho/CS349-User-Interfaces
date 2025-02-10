@@ -1,0 +1,39 @@
+┌─────────────────────────────────────────────────────────────────────────────────────────┐
+│  SYSTEMINFORMATION                                                     Version: 5.25.10 │
+└─────────────────────────────────────────────────────────────────────────────────────────┘
+
+Operating System:
+──────────────────────────────────────────────────────────────────────────────────────────
+Platform         : darwin
+Distro           : macOS
+Release          : 14.6.1
+Codename         : Sonoma
+Kernel           : 23.6.0
+Arch             : arm64
+Hostname         : Vancences-MacBook-Air.local
+Codepage         : UTF-8
+Build            : 23G93
+
+System:
+──────────────────────────────────────────────────────────────────────────────────────────
+Manufacturer     : Apple Inc.
+Model            : Mac14,2
+Version          : MacBook Air (13-inch, M2, 2022)
+Virtual          : 
+Type             : Notebook
+
+CPU:
+──────────────────────────────────────────────────────────────────────────────────────────
+Manufacturer     : Apple
+Brand            : M2
+Family           : -634136515
+Model            : 
+Stepping         : 2
+Speed            : 2.4
+Cores            : 8
+PhysicalCores    : 8
+PerformanceCores : 4
+EfficiencyCores  : 4
+Processors       : 1
+Socket           : SOC
+
