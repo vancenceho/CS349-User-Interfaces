@@ -88,12 +88,13 @@ You are to implement a game in which players must click on a series of spinning 
 
 The `a1/` folder should have the following directory:
 
+```shell
 a1/
-├── a1-canvas/  
-│ ├── node_modules  
+├── a1-canvas/
+│ ├── node_modules
 │ ├── public
 │ ├── src/
-│ │ └── main.ts // main logic of where A1 is at
+│ │ └── main.ts          // main logic of where A1 is at
 │ ├── .gitignore
 │ ├── index.html
 │ ├── package-lock.json
@@ -101,6 +102,7 @@ a1/
 │ └── tsconfig.json
 ├── .gitignore
 └── README.md
+```
 
 Inside the folder `a1/` there includes a `README.md` which states how to launch the assignment, it also includes the following points:
 
