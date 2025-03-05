@@ -193,7 +193,7 @@ Inside the folder `a2/` there includes a `README.md` which states how to launch 
 - describing use of AI tools like CoPilot or code from other sources
 - assumptions you made after clarifying something on Piazza (provide a link to the Piazza post)
 
-### A3
+### A3 - Vanilla HTML CSS UI
 
 ### A4
 
