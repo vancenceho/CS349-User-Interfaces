@@ -37,7 +37,7 @@ This repository consists of readings and assignments from **CS349 - User Interfa
 
 13. You may not use JavaScript or HTML/DOM timers like `setInterval`, `setTimeout`, or `requestAnimationFrame`.
 
-### A1 - CANVAS
+### ⬜&nbsp; A1 - CANVAS
 
 #### Synopsis
 
@@ -110,7 +110,7 @@ Inside the folder `a1/` there includes a `README.md` which states how to launch 
 - describing use of AI tools like CoPilot or code from other sources
 - assumptions you made after clarifying something on Piazza (provide a link to the Piazza post)
 
-### A2 - Imperative UI
+### 🟥&nbsp; A2 - Imperative UI
 
 #### Synopsis
 
@@ -193,9 +193,9 @@ Inside the folder `a2/` there includes a `README.md` which states how to launch 
 - describing use of AI tools like CoPilot or code from other sources
 - assumptions you made after clarifying something on Piazza (provide a link to the Piazza post)
 
-### A3 - Vanilla HTML CSS UI
+### 🟨&nbsp; A3 - Vanilla HTML CSS UI
 
-### A4
+### 🟩&nbsp; A4
 
 ## Acknowledgements
 
