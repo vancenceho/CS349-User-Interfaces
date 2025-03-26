@@ -1,0 +1,28 @@
+#app {
+  padding: 20px;
+  min-width: 450px;
+  min-height: 400px;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: whitesmoke;
+}
+
+.stack-col-layout {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.fill-row-layout {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+}
+
+.wrap-row-layout {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
