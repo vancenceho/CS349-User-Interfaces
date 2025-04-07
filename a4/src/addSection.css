@@ -1,0 +1,50 @@
+.add-section {
+  display: flex;
+  gap: 0;
+  width: 100%;
+  max-width: 600px;
+  margin: 0 auto;
+  margin-bottom: 16px;
+}
+
+.add-section-input,
+.add-section-stepper,
+.add-section-selector,
+.add-section-button {
+  flex: 1;
+  padding: 0.5rem;
+  font-size: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  outline: none;
+}
+
+.add-section-input {
+  min-width: 160px;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+.add-section-stepper {
+  max-width: 40px;
+  text-align: center;
+  border-radius: 0;
+}
+
+.add-section-selector {
+  min-width: 60px;
+  border-radius: 0px;
+  appearance: auto;
+}
+
+.add-section-button {
+  min-width: 60px;
+  background-color: #f0f0f0;
+  transition: background-color 0.3s ease;
+}
+
+.add-section-button:hover {
+  background-color: #e0e0e0;
+  transform: scale(1.1);
+  cursor: pointer;
+}
